@@ -1,35 +1,108 @@
 Select an option to play 8 puzzle
 1. Random Generated Puzzle
 2. Human Generated Puzzle
+3. EXIT
 
 ->1
-5 1 6
-7 2 4
-0 8 3
-Goal is found at depth 24
-Number of Nodes Generated: 2052
-Number of Nodes Expanded: 1274
+3 7 2
+5 4 8
+0 6 1
+Goal is found at depth 22
+Number of Nodes Generated: 1803
+Number of Nodes Expanded: 1119
 Solution Path from Initial State to Goal State:
-Time: 134ms
-5 1 6 
-7 2 4 
-0 8 3 
+Time: 117ms
+3 7 2 
+5 4 8 
+0 6 1 
 
-5 1 6 
-0 2 4 
-7 8 3 
+3 7 2 
+5 4 8 
+6 0 1 
 
-0 1 6 
-5 2 4 
-7 8 3 
+3 7 2 
+5 0 8 
+6 4 1 
 
-1 0 6 
-5 2 4 
-7 8 3 
+3 7 2 
+0 5 8 
+6 4 1 
 
-1 2 6 
-5 0 4 
-7 8 3 
+3 7 2 
+6 5 8 
+0 4 1 
+
+3 7 2 
+6 5 8 
+4 0 1 
+
+3 7 2 
+6 5 8 
+4 1 0 
+
+3 7 2 
+6 5 0 
+4 1 8 
+
+3 7 2 
+6 0 5 
+4 1 8 
+
+3 0 2 
+6 7 5 
+4 1 8 
+
+0 3 2 
+6 7 5 
+4 1 8 
+
+6 3 2 
+0 7 5 
+4 1 8 
+
+6 3 2 
+7 0 5 
+4 1 8 
+
+6 3 2 
+7 1 5 
+4 0 8 
+
+6 3 2 
+7 1 5 
+0 4 8 
+
+6 3 2 
+0 1 5 
+7 4 8 
+
+0 3 2 
+6 1 5 
+7 4 8 
+
+3 0 2 
+6 1 5 
+7 4 8 
+
+3 1 2 
+6 0 5 
+7 4 8 
+
+3 1 2 
+6 4 5 
+7 0 8 
+
+3 1 2 
+6 4 5 
+0 7 8 
+
+3 1 2 
+0 4 5 
+6 7 8 
+
+0 1 2 
+3 4 5 
+6 7 8 
 
 Select an option to play 8 puzzle
 1. Random Generated Puzzle
