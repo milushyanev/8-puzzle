@@ -1,0 +1,34 @@
+Cases	A*h1Time	A*h2Time
+	(Sec)		(Sec)
+
+10	9.656		8.773
+50	48.024		46.862
+100	96.539		94.571
+150	142.131		147.477
+200	197.976		194.116
+250	232.821		242.062
+300	289.900		287.663
+400	395.821		384.030	
+500	485.476		476.633
+600	558.974		587.952
+700	695.075		685.237
+800	797.903		778.878
+900	909.029		872.025
+1000	997.865		990.135
+
+
+Average Nodes Generated - 5289.
+Average Nodes Expanded(h2) - 3327.
+Average Time to Solve(h2) - 1.035 seconds
+Average Time to Solve(h1) - 1.135 seconds
+
+Inversions checked - Work
+Goal State - Work
+Moving The Null Element Correctly - Works
+Calculating Goal State - Works
+h1 - works
+h2 - works
+Unique Integer Generated - works
+1d to 2d - works
+Solvable/Not Solvable -works
+User Input Check - works
